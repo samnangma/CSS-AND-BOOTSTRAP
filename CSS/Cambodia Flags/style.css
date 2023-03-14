@@ -1,0 +1,21 @@
+.container{
+    width:50%;
+    margin: auto;
+    
+}
+
+.blue{
+    background-color: darkblue;
+    height: 250px;
+}
+.red{
+    background-color: red;
+    
+}
+
+.red img{
+    width: 60%;
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
